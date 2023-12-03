@@ -1,0 +1,11 @@
+=== Setup
+
+Install Python 3.7-3.11.
+
+Then get yourself set up with link:http://docs.python-guide.org/en/latest/dev/virtualenvs/[virtualenv] so we don't break any other Python stuff you have on your machine. After you've got that installed let's set up an environment for our app:
+
+[source]
+----
+virtualenv neo4j-movies
+source neo4j-movies/bin/activate
+----
