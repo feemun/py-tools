@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ssh-util/.idea/ssh-util.iml" filepath="$PROJECT_DIR$/../ssh-util/.idea/ssh-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ping-util.iml" filepath="$PROJECT_DIR$/.idea/ping-util.iml" />
     </modules>
   </component>
 </project>

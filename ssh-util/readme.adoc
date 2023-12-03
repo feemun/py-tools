@@ -6,6 +6,6 @@ Then get yourself set up with link:http://docs.python-guide.org/en/latest/dev/vi
 
 [source]
 ----
-virtualenv ssh-util
-ssh-util/Scripts/activate
+virtualenv venv
+venv/Scripts/activate
 ----
